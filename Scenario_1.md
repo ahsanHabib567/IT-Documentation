@@ -1,11 +1,11 @@
 ## Place:
 **Hotel Zakaria International - Dhaka**
 ## Issue: 
-**No internet on 3rd floor in one Router and internet
+**No internet on the 3rd floor in one Router, and internet
 blackout at the reception site router.**
 ## Reason:  
-**There was an adapter issue of the Altai router on
-3rd floor. Router wasn’t getting power. And on the reception
+**There was an adapter issue with the Altai router on
+3rd floor. The router wasn’t getting power. And on the reception
 site, maybe a restart of the network stack by them caused the
 problem.**
 ## Approach:  
