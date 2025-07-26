@@ -1,4 +1,4 @@
-# • Place: Hotel Zakaria International
+**Place: Hotel Zakaria International**
 • Issue: No internet on 3rd floor in one Router and internet
 blackout at the reception site router.
 • Reason: There was an adapter issue of the Altai router on
