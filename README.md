@@ -1,5 +1,5 @@
 # IT-Documentation
-This repo is meant to be the central hub of all the scenarios, issues and the best approach to solve them I encounter in my daily working life as an IT and Networking person.
+This repo is meant to be the central hub of all the scenarios, issues and the best approaches to solve them I encounter in my daily working life as an IT and Networking person.
 
 Documentation plays a crucial role in the IT and Networking do-
 main. We all encounter numerous problems in our working lives in
